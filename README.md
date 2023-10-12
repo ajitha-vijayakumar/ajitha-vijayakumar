@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hey there👋</h1>
 ⚡ Insight: "Coding is not just about creating, it's about maintaining. Every line of code you write is a promise to the future. Make it wisely!" 💡👩‍💻
-### Let's Get Connected
-"Collaboration fuels innovation. Let's expand our nets and amplify our worth. Feel free to connect with me at  
+
+<h1 align="center">Let's Get Connected</h1>
+Collaboration fuels innovation. Let's expand our nets and amplify our worth. Feel free to connect with me at  
 
 <div align="center">
 
