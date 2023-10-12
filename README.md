@@ -21,3 +21,9 @@ I believe that <b>Collaboration fuels innovation</b>. Let's expand our nets and 
 
 </div>
 
+<h1 align="center">Github Status</h1>
+ <div align="center" >
+<img width="43%" src="https://github-readme-stats.vercel.app/api?username=ajitha-vijayakumar&theme=tokyonight&show_icons=true"> <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajitha-vijayakumar&layout=compact&theme=tokyonight">
+</div> 
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitha-vijayakumar")"><img src="https://activity-graph.herokuapp.com/graph?username=ajitha-vijayakumar&theme=tokyonight"></div>
