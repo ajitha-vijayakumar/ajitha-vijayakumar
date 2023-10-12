@@ -1,9 +1,15 @@
+<div align="center">  
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="500" height="260">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" height="260"> 
+
+   </div>
+
 <h1 align="center">Hey there👋</h1>
-⚡ Insight: "Coding is not just about creating, it's about maintaining. Every line of code you write is a promise to the future. Make it wisely!" 💡👩‍💻
+⚡ Insight: "Coding is not just about creating, it's about maintaining. Every line of code you write is a promise to the future. Make it wisely!" 💡
 
 <h1 align="center">Let's Get Connected</h1>
 Collaboration fuels innovation. Let's expand our nets and amplify our worth. Feel free to connect with me at  
-
+<br>
 <div align="center">
 
 
