@@ -4,7 +4,10 @@
 "Collaboration fuels innovation. Let's expand our nets and amplify our worth. Connect with me at  
 <p align="center">
   <a href="https://www.linkedin.com/in/ajitha-developer/">
-    <img src="GMAIL.jpg" alt="LinkedIn" style="width: 100px; height: 100px;">
+    <img src="LINKEDIN.jpg" alt="LinkedIn" style="width: 100px; height: 50px;">
+  </a>
+  <a href="ajitha7472@gmail.com">
+    <img src="GMAIL.jpg" alt="Gmail" style="width: 100px; height: 50px;">
   </a>
 </p>
 
