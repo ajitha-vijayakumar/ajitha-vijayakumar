@@ -7,7 +7,7 @@
     <img src="LINKEDIN.jpg" alt="LinkedIn" style="width: 130px; height: 30px;">
   </a>
   <a href="mailto:ajitha7472@gmail.com">
-    <img src="GMAIL.jpg" alt="Gmail" style="width: 130px; height: 30px;">
+    <img src="GMAIL.jpg" alt="Gmail" style="width: 120px; height: 30px;">
   </a>
 </p>
 
