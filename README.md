@@ -3,6 +3,6 @@
 ### Let's Get Connected
 "Collaboration fuels innovation. Let's expand our nets and amplify our worth. Connect with me at  
 <a href="https://www.linkedin.com/in/ajitha-developer/">
-  <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="LinkedIn" style="width: 80px; height: 30px;">
+  <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" alt="LinkedIn" style="width: 80px; height: 25px;">
 </a>
 "🌐🚀
