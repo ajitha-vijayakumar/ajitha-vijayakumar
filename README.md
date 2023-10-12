@@ -8,7 +8,7 @@
 ⚡ Insight: "Coding is not just about creating, it's about maintaining. Every line of code you write is a promise to the future. Make it wisely!" 💡
 <p>
 <h1 align="center">Let's Get Connected</h1>
-Collaboration fuels innovation. Let's expand our nets and amplify our worth. Feel free to connect with me at  
+I believe that <b>Collaboration fuels innovation</b>. Let's expand our nets and amplify our worth. Feel free to connect with me at  
 <br>
 </p>
 <div align="center">
